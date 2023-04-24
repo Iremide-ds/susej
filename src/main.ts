@@ -8,7 +8,7 @@ async function bootstrap() {
 
   // Swagger configuration
   const config = new DocumentBuilder()
-    .setTitle('Sussej API')
+    .setTitle('Susej API')
     .setDescription('API description')
     .setVersion('1.0')
     .build();
